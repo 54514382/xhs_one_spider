@@ -152,12 +152,10 @@ def get_logger(self):
 ```
 
 # 三、功能与使用
-## 3.1 填写cookie
-开始采集前，先把自己的cookie值填入cookie.txt文件。
-cookie获取说明：
-![cookie获取方法](https://files.mdnice.com/user/32110/b7ae2717-c188-49c7-806d-f87f6133d565.png)
-
-然后把复制的cookie值填写到当前文件夹的cookie.txt文件中。
+## 3.1 一键配置cookie
+开始采集前，先用内置的《cookie小工具》自动配置好cookie。
+![7c14954d150d91af132bc7d82bb64cc3](https://github.com/user-attachments/assets/bf68f77a-2c07-46fe-9df9-11b5dc622549)
+这样，获取到的cookie值就自动写入cookie.txt文件中了，告别繁琐的手动获取。
 ## 3.2 软件登录
 用户登录界面：需要登录。
 ## 3.3 启动采集
@@ -181,12 +179,16 @@ cookie获取说明：
 季卡：使用期限3个月，399元。季卡可多次购买。适合中期采集需求
 年卡：使用期限1年，799元。年卡可多次购买。适合长期采集需求
 ```
-1）付费方式一：（手动，付费后加我微信（493882434）对接卡密）
+**方式一：自助开通（推荐）**
+
+开通入口：https://mgnb.pro/product/xhs
+
+**方式二：自助开通**
+
+开通入口：https://kjyjf.xetlk.com/s/1dk7Wy
+
+**方式三：手动开通，付费后加v（493882434）对接**
 <img width="2324" height="604" alt="收款码v5" src="https://github.com/user-attachments/assets/a44fa968-e5bb-4668-922a-1d9ca94d358e" />
-
-2）付费方式二：（自动， 自己付费自己拿卡密，无需加v对接）
-
-自助开通入口：https://kjyjf.xetlk.com/s/1dk7Wy
 
 ## 4.2 一机一码
 为防止软件被恶意转卖，采用一机一码机制，一个卡密只能在一台电脑运行、不可多电脑运行。
