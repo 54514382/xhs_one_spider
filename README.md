@@ -1,11 +1,13 @@
 # xhs_one_spider
-> 马哥原创：爬小红书聚合软件。支持3个功能，含：根据搜索关键词爬笔记与评论、根据主页链接爬笔记、uid与链接转换。
-> 本工具仅限学术交流使用，严格遵循相关法律法规，符合平台内容的合法及合规性，禁止用于任何商业用途！
+> 🔥小红书采集器 - GUI界面开箱即用，提供日卡试用
+>
+> 🔧支持功能：✅搜索笔记采集 ✅搜索评论采集 ✅博主笔记采集 ✅链接转换
+>
+> [⬇️点这里下载最新版](https://github.com/mashukui/xhs_one_spider/releases/)
 
 <p align="center">
-<a href="README.md">简体中文</a> | <a href="README.en.md">English</a>
+<a href="README.md">简体中文 README</a> | <a href="README.en.md">English README</a>
 </p>
-
 
 # 一、背景分析与结果展示
 ## 1.1 开发背景
@@ -159,7 +161,8 @@ def get_logger(self):
 # 三、功能与使用
 ## 3.1 一键配置cookie
 开始采集前，先用内置的《cookie小工具》自动配置好cookie。
-![7c14954d150d91af132bc7d82bb64cc3](https://github.com/user-attachments/assets/bf68f77a-2c07-46fe-9df9-11b5dc622549)
+![7c14954d150d91af132bc7d82bb64cc3](https://github.com/user-attachments/assets/d7ade547-18d9-4d49-9a46-c7103e2b8ed3)
+
 这样，获取到的cookie值就自动写入cookie.txt文件中了，告别繁琐的手动获取。
 ## 3.2 软件登录
 用户登录界面：需要登录。
@@ -179,21 +182,13 @@ def get_logger(self):
 ## 4.1 卡密说明
 费用如下：
 ```python
-日卡：使用期限1天，39元。日卡仅能购买一次。适合试用等临时需求
-月卡：使用期限1个月，149元。月卡可多次购买。适合短期采集需求
-季卡：使用期限3个月，399元。季卡可多次购买。适合中期采集需求
-年卡：使用期限1年，799元。年卡可多次购买。适合长期采集需求
+日卡：使用期限1天，39元。适合试用等临时需求
+月卡：使用期限1个月，149元。适合短期采集需求
+季卡：使用期限3个月，399元。适合中期采集需求
+年卡：使用期限1年，799元。适合长期采集需求
 ```
-**方式一：自助开通（推荐）**
 
 开通入口：https://mgnb.pro/product/xhs
-
-**方式二：自助开通**
-
-开通入口：https://kjyjf.xetlk.com/s/1dk7Wy
-
-**方式三：手动开通，付费后加v（493882434）对接**
-<img width="2324" height="604" alt="收款码v5" src="https://github.com/user-attachments/assets/a44fa968-e5bb-4668-922a-1d9ca94d358e" />
 
 ## 4.2 一机一码
 为防止软件被恶意转卖，采用一机一码机制，一个卡密只能在一台电脑运行、不可多电脑运行。
@@ -205,5 +200,5 @@ def get_logger(self):
 软件由本人独立原创开发，长期维护更新，提供稳定运行。
 
 # 五、软件获取
-公众号"**老男孩的平凡之路**"，后台回复"**爬小红书聚合软件**"获取最新版软件安装包。
+公众号"**老男孩的平凡之路**"，后台回复"**爬小红书聚合软件**"获取最新版软件安装包。[或点这里直接下载](https://github.com/mashukui/xhs_one_spider/releases/)
 <img width="1938" height="364" alt="二维码-公众号放底部v2" src="https://github.com/user-attachments/assets/c5d7b4b4-b507-4734-b004-63b99abe370a" />
