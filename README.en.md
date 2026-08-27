@@ -205,9 +205,9 @@ def get_logger(self):
 
 | Plan | Duration | Price | Purchase Limit | Suitable For |
 |------|----------|-------|----------------|--------------|
-| Daily Pass | 1 day | ¥39 | One-time | Trial or temporary needs |
+| Daily Pass | 1 day | ¥19 | One-time | Trial or temporary needs |
 | Monthly Pass | 1 month | ¥149 | Multiple | Short-term collection needs |
-| Quarterly Pass | 3 months | ¥399 | Multiple | Medium-term collection needs |
+| Quarterly Pass | 3 months | ¥349 | Multiple | Medium-term collection needs |
 | Annual Pass | 1 year | ¥799 | Multiple | Long-term collection needs |
 
 ### Purchase Options
